@@ -41,9 +41,9 @@
     # different AZ to be chosen.
     AZRegions:
       ap-northeast-1:
-        AZs: ["a", "b"]
+        AZs: ["a", "c"]
       ap-northeast-2:
-        AZs: ["a", "b"]
+        AZs: ["a", "c"]
       ap-south-1:
         AZs: ["a", "b"]
       ap-southeast-1:
